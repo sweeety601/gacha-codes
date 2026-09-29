@@ -1,0 +1,16 @@
+[
+  {
+    "game": "Genshin Impact",
+    "code": "TEST123",
+    "source": "test",
+    "seen": "2026-09-29"
+  },
+  {
+    "game": "Wuthering Waves",
+    "code": "TEST456",
+    "source": "test",
+    "seen": "2026-09-29"
+  }
+]
+EO
+cat codes.json
